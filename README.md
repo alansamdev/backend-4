@@ -172,3 +172,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Security reports go through
 ## License
 
 [MIT](LICENSE)
+
+<!-- fix: issue #200 - [DOC-001] No developer setup guide for local environment -->
